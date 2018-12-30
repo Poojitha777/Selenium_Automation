@@ -38,7 +38,7 @@ class Extended_Webdriver():
         Returns:
             'WebDriver Instance'
         """
-        baseURL = "https://www.python.org/"
+        baseURL = "https://www.amazon.com/"
         if self.browser == "iexplorer":
             # Set ie driver
             driver = webdriver.Ie()

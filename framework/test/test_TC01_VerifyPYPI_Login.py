@@ -6,7 +6,6 @@ import unittest
 @pytest.mark.usefixtures("oneTimeSetUp", "setUp")
 class Test_login(unittest.TestCase):
 
-
     @pytest.fixture(autouse=True)
     def classSetup(self, oneTimeSetUp):
         self.lp = LoginPage(self.driver)
