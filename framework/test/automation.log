@@ -1,0 +1,253 @@
+12/13/2018 05:33:57 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 05:33:58 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 05:33:58 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 05:33:58 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 05:33:58 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 05:33:59 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 05:33:59 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 05:33:59 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 05:33:59 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 05:34:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 05:34:01 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 05:34:05 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 05:34:06 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 05:34:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 05:50:48 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 05:50:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 05:50:50 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 05:50:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 05:50:51 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 05:50:51 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 05:50:51 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 05:50:51 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 05:50:51 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 05:50:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 05:50:53 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 05:50:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 05:50:56 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 05:50:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 06:16:20 PM - SeleniumDriver - INFO: Element not found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 06:16:20 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 06:16:25 PM - SeleniumDriver - INFO: Element not found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 06:16:25 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 06:16:30 PM - SeleniumDriver - INFO: Element not found with locator: //*[contains(text(), 'Account settings')] and  locatorType: xpath
+12/13/2018 06:16:30 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //*[contains(text(), 'Account settings')] locatorType: xpath
+12/13/2018 06:16:30 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 06:16:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 06:16:32 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 06:16:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 06:16:33 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 06:16:33 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 06:16:33 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 06:16:33 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 06:16:33 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 06:16:34 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 06:16:35 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 06:18:30 PM - SeleniumDriver - INFO: Element not found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 06:18:30 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 06:18:35 PM - SeleniumDriver - INFO: Element not found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 06:18:35 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 06:18:36 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 06:18:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 06:18:37 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 06:18:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 06:18:38 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 06:18:38 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 06:18:38 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 06:18:38 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 06:18:38 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 06:18:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 06:18:40 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 06:20:18 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 06:20:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 06:20:19 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 06:20:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 06:20:20 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 06:20:20 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 06:20:20 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 06:20:20 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 06:20:20 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 06:20:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 06:20:22 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 06:20:22 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 06:20:26 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 06:20:31 PM - SeleniumDriver - INFO: Element not found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 06:20:31 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 06:21:43 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 06:21:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 06:21:44 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 06:21:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 06:21:45 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 06:21:45 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 06:21:45 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 06:21:45 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 06:21:45 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 06:21:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 06:21:47 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 06:21:47 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 06:21:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 06:21:56 PM - SeleniumDriver - INFO: Element not found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 06:21:56 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 06:22:52 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 06:22:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 06:22:53 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 06:22:53 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 06:22:58 PM - SeleniumDriver - INFO: Element not found with locator: username and  locatorType: id
+12/13/2018 06:22:58 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: username locatorType: id
+12/13/2018 06:23:03 PM - SeleniumDriver - INFO: Element not found with locator: password and  locatorType: id
+12/13/2018 06:23:03 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: password locatorType: id
+12/13/2018 06:23:08 PM - SeleniumDriver - INFO: Element not found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 06:23:08 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 06:23:13 PM - SeleniumDriver - INFO: Element not found
+12/13/2018 06:23:13 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 06:23:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 06:26:21 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 06:26:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 06:26:22 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 06:26:22 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 06:26:27 PM - SeleniumDriver - INFO: Element not found with locator: username and  locatorType: id
+12/13/2018 06:26:27 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: username locatorType: id
+12/13/2018 06:26:32 PM - SeleniumDriver - INFO: Element not found with locator: password and  locatorType: id
+12/13/2018 06:26:32 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: password locatorType: id
+12/13/2018 06:26:37 PM - SeleniumDriver - INFO: Element not found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 06:26:37 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 06:26:42 PM - SeleniumDriver - INFO: Element not found
+12/13/2018 06:26:42 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 06:26:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 06:26:52 PM - SeleniumDriver - INFO: Element not found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 06:26:52 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 06:28:06 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 06:28:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 06:28:06 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 06:28:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 06:28:07 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 06:28:07 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 06:28:07 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 06:28:07 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 06:28:07 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 06:28:10 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 06:28:10 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 06:28:10 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 06:28:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 06:28:15 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 06:28:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 06:28:42 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 06:28:43 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 06:28:43 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 06:28:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 06:28:44 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 06:28:44 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 06:28:44 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 06:28:44 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 06:28:44 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 06:28:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 06:28:46 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 06:28:46 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 06:28:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 06:28:50 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 06:28:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 07:42:42 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 07:42:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 07:42:44 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 07:42:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 07:42:44 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 07:42:44 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 07:42:44 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 07:42:45 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 07:42:45 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 07:42:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 07:42:47 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 07:42:47 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 07:42:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 07:42:52 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 07:42:55 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 07:45:01 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 07:45:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 07:45:04 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 07:45:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 07:45:04 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 07:45:05 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 07:45:05 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 07:45:05 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 07:45:05 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 07:45:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 07:45:07 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 07:45:07 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 07:45:11 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 07:45:12 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 07:45:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 08:55:48 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 08:55:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 08:55:50 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 08:55:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 08:55:50 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 08:55:50 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 08:55:50 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 08:55:51 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 08:55:51 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 08:55:52 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 08:55:53 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 08:55:53 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 08:55:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 08:55:57 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 08:56:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 08:59:39 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 08:59:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 08:59:41 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 08:59:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 08:59:42 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 08:59:42 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 08:59:42 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 08:59:42 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 08:59:42 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 08:59:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 08:59:44 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 08:59:44 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 08:59:48 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 08:59:49 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 08:59:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 09:16:27 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 09:16:29 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 09:16:29 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 09:16:31 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 09:16:31 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 09:16:31 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 09:16:31 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 09:16:31 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 09:16:31 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 09:16:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 09:16:33 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 09:16:33 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 09:16:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 09:16:39 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 09:16:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/13/2018 09:25:44 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/13/2018 09:25:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/13/2018 09:25:46 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/13/2018 09:25:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/13/2018 09:25:47 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/13/2018 09:25:47 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/13/2018 09:25:47 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/13/2018 09:25:47 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/13/2018 09:25:47 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/13/2018 09:25:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/13/2018 09:25:49 PM - SeleniumDriver - INFO: Element Found
+12/13/2018 09:25:49 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/13/2018 09:25:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/13/2018 09:25:53 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/13/2018 09:25:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
+12/14/2018 07:44:35 PM - SeleniumDriver - INFO: Element Found with locator: //a[@title='Python Package Index'] and  locatorType: xpath
+12/14/2018 07:44:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@title='Python Package Index'] locatorType: xpath
+12/14/2018 07:44:37 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+12/14/2018 07:44:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+12/14/2018 07:44:38 PM - SeleniumDriver - INFO: Element Found with locator: username and  locatorType: id
+12/14/2018 07:44:38 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+12/14/2018 07:44:38 PM - SeleniumDriver - INFO: Element Found with locator: password and  locatorType: id
+12/14/2018 07:44:38 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+12/14/2018 07:44:38 PM - SeleniumDriver - INFO: Element Found with locator: //input[@value='Log in'] and  locatorType: xpath
+12/14/2018 07:44:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Log in'] locatorType: xpath
+12/14/2018 07:44:40 PM - SeleniumDriver - INFO: Element Found
+12/14/2018 07:44:40 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Installing packages')] and  locatorType: xpath
+12/14/2018 07:44:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Installing packages')] locatorType: xpath
+12/14/2018 07:44:46 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Uploading packages')] and  locatorType: xpath
+12/14/2018 07:44:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Uploading packages')] locatorType: xpath
