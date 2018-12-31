@@ -16,6 +16,7 @@ class Test_SortOptions(unittest.TestCase):
 
     @pytest.mark.run(order=3)
     def test_priceCompare(self):
+        self.hp.searchBar("Alexa")
         self.pp.sort()
         assert self.pp.price() in self.pp.List2, "price list sorted ascending successful"
         print("price list failed sorting ascending")

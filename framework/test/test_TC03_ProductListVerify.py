@@ -18,6 +18,9 @@ class Test_ProductPage(unittest.TestCase):
     @pytest.mark.run(order=1)
     def test_searchProduct(self):
         self.hp.searchBar("Alexa")
+        productText = self.pp.alexa()
+        assert "Alexa" in productText, "Product is not matching"
+        print("Product is matching")
 
 
     # @pytest.mark.run(order=2)
@@ -27,11 +30,8 @@ class Test_ProductPage(unittest.TestCase):
     #     time.sleep(2)
 
 
-    @pytest.mark.run(order=1)
-    def test_assertProduct(self):
-       productText = self.pp.alexa()
-       assert "Alexa" in productText, "Product is not matching"
-       print("Product is matching")
+
+
 
 
 

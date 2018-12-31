@@ -17,12 +17,7 @@ class Test_ProductPage(unittest.TestCase):
     @pytest.mark.run(order=1)
     def test_searchProduct(self):
         self.hp.searchBar("iphone")
-
-    @pytest.mark.run(order=2)
-    def test_ProductClick(self):
-        time.sleep(2)
         self.pp.productClick()
-        time.sleep(2)
 
     @pytest.mark.run(order=3)
     def test_stock(self):

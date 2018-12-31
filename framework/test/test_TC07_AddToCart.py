@@ -20,6 +20,15 @@ class Test_ProductPage(unittest.TestCase):
         self.hp.searchBar("dress")
         self.pp.Dell()
         self.pdp.cartClick()
+        cart1 = self.pdp.cartCount()
+        self.hp.searchBar("watch")
+        self.pp.watch()
+        self.pdp.cartClick()
+        cart2 = self.pdp.cartCount()
+        assert cart1==cart2+1, "cart count verified successfully"
+        print("cart count failed")
+
+
 
 
 

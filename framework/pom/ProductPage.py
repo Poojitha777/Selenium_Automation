@@ -9,6 +9,7 @@ class ProductPage(SeleniumDriver):
 
     _product = "(//h2)[1]"
     _alexa = "(//h2)[10]"
+    _watch = "(//h2)[1]"
     _assertAlexa = "//span[text()='\"Alexa\"']"
     _brand = "//input[@name='s-ref-checkbox-Amazon']"
     _amazon = "//span[text()='Amazon']"
@@ -27,18 +28,21 @@ class ProductPage(SeleniumDriver):
 
 
     def alexa(self):
-        txt = self.getElement(self._assertAlexa,"xpath")
-        b = txt.text
-        return b
+        txt = self.getElement(self._assertAlexa,"xpath").text
+        return txt
+
 
     def brandClick(self):
         self.elementClick(self._brand,"xpath")
 
 
     def amazonText(self):
-        txt1 = self.driver.find_elements_xpath(self._amazon)
-        b1 = txt1.text
-        return b1
+        txt1 = self.driver.find_elements_by_xpath(self._amazon)
+        # ListAmazon = [a.text for a in txt1]
+        ListAmazon=[]
+        for i in txt1:
+            ListAmazon.append(i.text)
+        return ListAmazon
 
     def reviewClick(self):
         self.elementClick(self._review,"xpath")
@@ -56,6 +60,9 @@ class ProductPage(SeleniumDriver):
 
     def Dell(self):
         self.elementClick(self._dell,"xpath")
+
+    def watch(self):
+        self.getElement(self._watch,"xpath")
 
 
 
