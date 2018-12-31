@@ -649,3 +649,179 @@
 12/31/2018 04:23:41 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
 12/31/2018 04:23:48 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
 12/31/2018 04:23:51 PM - SeleniumDriver - INFO: Element not found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 04:42:13 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 04:42:14 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 04:42:16 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 04:42:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 04:42:20 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 04:42:26 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 04:42:26 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 04:42:27 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 04:42:30 PM - SeleniumDriver - INFO: Element not found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 04:47:14 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 04:47:15 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 04:47:15 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 04:47:21 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 04:47:21 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 04:47:29 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 04:47:29 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 04:47:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 04:47:35 PM - SeleniumDriver - INFO: Element not found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 04:53:07 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 04:53:08 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 04:53:08 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 04:53:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 04:53:14 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 04:53:20 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 04:55:02 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 04:55:02 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 04:55:02 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 04:55:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 04:55:10 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 04:55:19 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 04:57:01 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 04:57:01 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 04:57:01 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 04:57:11 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 04:57:11 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 04:57:21 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 04:58:53 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 04:58:53 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 04:58:55 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 04:59:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 04:59:02 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 04:59:10 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 04:59:10 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 04:59:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 04:59:12 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 04:59:13 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 04:59:13 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 04:59:13 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 04:59:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 04:59:22 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 04:59:25 PM - SeleniumDriver - INFO: Element not found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 04:59:25 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 04:59:25 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:01:23 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:01:23 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:01:25 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:01:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:01:32 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:01:38 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 05:01:38 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:01:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:01:42 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:01:42 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:01:42 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:01:42 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:01:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:01:46 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:01:49 PM - SeleniumDriver - INFO: Element not found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:01:49 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:01:49 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:02:32 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:02:32 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:02:32 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:02:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:02:41 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:02:45 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 05:02:45 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:02:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:02:47 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:02:47 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:02:48 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:02:48 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:02:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:02:53 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:02:59 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 05:02:59 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:03:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:03:01 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:05:17 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:05:18 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:05:18 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:05:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:05:23 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:05:30 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 05:05:30 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:05:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:05:33 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:05:33 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:05:33 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:05:33 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:05:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:05:37 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:05:44 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 05:05:44 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:05:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:05:47 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:06:38 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:06:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:06:38 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:06:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:06:46 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:06:54 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 05:06:54 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:06:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:06:59 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:06:59 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:07:00 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:07:00 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:07:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:07:04 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:07:11 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 05:07:11 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:07:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:07:15 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:09:28 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:09:28 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:09:28 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:09:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:09:36 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:09:43 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 05:09:43 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:09:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:09:46 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:09:46 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:09:47 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:09:47 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:09:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:09:56 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+12/31/2018 05:10:10 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+12/31/2018 05:10:10 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+12/31/2018 05:10:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+12/31/2018 05:10:12 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+12/31/2018 05:41:42 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:41:42 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:41:43 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:41:52 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:41:52 PM - SeleniumDriver - INFO: Element Found with locator: //input[@name='s-ref-checkbox-Amazon'] and  locatorType: xpath
+12/31/2018 05:41:52 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='s-ref-checkbox-Amazon'] locatorType: xpath
+12/31/2018 05:48:46 PM - SeleniumDriver - INFO: Element not found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:48:46 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:48:49 PM - SeleniumDriver - INFO: Element not found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:48:49 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:48:51 PM - SeleniumDriver - INFO: Element Found with locator: //input[@name='s-ref-checkbox-Amazon'] and  locatorType: xpath
+12/31/2018 05:48:51 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@name='s-ref-checkbox-Amazon'] locatorType: xpath
+12/31/2018 05:48:51 PM - SeleniumDriver - INFO: Element not appeared on the web page
+12/31/2018 05:49:38 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:49:38 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:49:38 PM - SeleniumDriver - INFO: Element not found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:49:38 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:49:38 PM - SeleniumDriver - INFO: Element not found with locator: //input[@name='s-ref-checkbox-Amazon'] and  locatorType: xpath
+12/31/2018 05:49:38 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@name='s-ref-checkbox-Amazon'] locatorType: xpath
+12/31/2018 05:49:38 PM - SeleniumDriver - INFO: Element not appeared on the web page
+12/31/2018 05:50:25 PM - SeleniumDriver - INFO: Element not found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:50:25 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:50:28 PM - SeleniumDriver - INFO: Element not found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:50:28 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:50:29 PM - SeleniumDriver - INFO: Element Found with locator: //input[@name='s-ref-checkbox-Amazon'] and  locatorType: xpath
+12/31/2018 05:50:29 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@name='s-ref-checkbox-Amazon'] locatorType: xpath
+12/31/2018 05:50:29 PM - SeleniumDriver - INFO: Element not appeared on the web page
+12/31/2018 05:51:41 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+12/31/2018 05:51:41 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+12/31/2018 05:51:41 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+12/31/2018 05:52:05 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+12/31/2018 05:52:05 PM - SeleniumDriver - INFO: Element Found with locator: //input[@name='s-ref-checkbox-Amazon'] and  locatorType: xpath
+12/31/2018 05:52:05 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='s-ref-checkbox-Amazon'] locatorType: xpath
+12/31/2018 05:52:05 PM - SeleniumDriver - INFO: Element not appeared on the web page

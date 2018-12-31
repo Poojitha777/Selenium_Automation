@@ -17,6 +17,7 @@ class ProductPage(SeleniumDriver):
     _select = "sort"
     _price = "//span[@class='sx-price-whole']"
     _dell = "(//h2)[1]"
+    _wait="//div[@id='leftNavContainer']/h3[text()='Show results for']"
 
     List2 = []
 
@@ -37,11 +38,10 @@ class ProductPage(SeleniumDriver):
 
 
     def amazonText(self):
+        self.waitForElement(self._wait,5,0.5)
         txt1 = self.driver.find_elements_by_xpath(self._amazon)
         # ListAmazon = [a.text for a in txt1]
-        ListAmazon=[]
-        for i in txt1:
-            ListAmazon.append(i.text)
+        ListAmazon = [i.text for i in txt1]
         return ListAmazon
 
     def reviewClick(self):
@@ -62,7 +62,7 @@ class ProductPage(SeleniumDriver):
         self.elementClick(self._dell,"xpath")
 
     def watch(self):
-        self.getElement(self._watch,"xpath")
+        self.elementClick(self._watch,"xpath")
 
 
 
