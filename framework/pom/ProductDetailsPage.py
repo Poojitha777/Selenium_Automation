@@ -7,9 +7,17 @@ class ProductDetailsPage(SeleniumDriver):
         self.driver = driver
 
     _inStock = "//div[@id='availability']/span"
+    _addCart = "//input[@id='add-to-cart-button']"
 
     def stock(self):
         a = self.getElement(self._inStock,"xpath")
         b = a.text
         return b
+
+    def cartClick(self):
+        self.elementClick(self._addCart,"xpath")
+
+
+
+
 
