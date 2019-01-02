@@ -1,12 +1,13 @@
 from framework.pom.HomePage import HomePage
 from framework.pom.ProductPage import ProductPage
 from framework.pom.ProductDetailsPage import ProductDetailsPage
+from framework.base.Selenium_driver import SeleniumDriver
 import pytest
 import unittest
 import time
 
 @pytest.mark.usefixtures("oneTimeSetUp", "setUp")
-class Test_ProductPage(unittest.TestCase):
+class Test_RemoveItemValidate(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def classSetup2(self, oneTimeSetUp):
@@ -15,13 +16,13 @@ class Test_ProductPage(unittest.TestCase):
         self.pdp = ProductDetailsPage(self.driver)
 
     @pytest.mark.run(order=1)
-    def test_searchProduct(self):
-        self.hp.searchBar("iphone")
-        self.pp.productClick()
+    def test_RemoveProduct(self):
+        self.hp.searchBar("dress")
+        self.pp.Dell()
+        self.hp.cartClick()
+        #cart1 = self.hp.cartCount()
 
-    @pytest.mark.run(order=3)
-    def test_stock(self):
-       stock = self.pdp.stock()
-       assert "In Stock." in stock, "Product is not in stock"
-       print("Product is in stock")
-
+        self.hp.searchBar("watch")
+        self.pp.watch()
+        self.hp.cartClick()
+        #cart2 = self.hp.cartCount()

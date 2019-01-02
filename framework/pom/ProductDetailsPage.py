@@ -8,8 +8,20 @@ class ProductDetailsPage(SeleniumDriver):
 
     _inStock = "//div[@id='availability']/span"
 
+
+
     def stock(self):
         a = self.getElement(self._inStock,"xpath")
         b = a.text
         return b
+
+
+
+
+
+
+
+
+
+
 

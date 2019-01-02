@@ -6,7 +6,7 @@ import unittest
 import time
 
 @pytest.mark.usefixtures("oneTimeSetUp", "setUp")
-class Test_ProductPage(unittest.TestCase):
+class Test_SortOptions(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def classSetup2(self, oneTimeSetUp):
@@ -14,14 +14,9 @@ class Test_ProductPage(unittest.TestCase):
         self.pp = ProductPage(self.driver)
         self.pdp = ProductDetailsPage(self.driver)
 
-    @pytest.mark.run(order=1)
-    def test_searchProduct(self):
-        self.hp.searchBar("iphone")
-        self.pp.productClick()
-
     @pytest.mark.run(order=3)
-    def test_stock(self):
-       stock = self.pdp.stock()
-       assert "In Stock." in stock, "Product is not in stock"
-       print("Product is in stock")
-
+    def test_priceCompare(self):
+        self.hp.searchBar("Alexa")
+        self.pp.sort()
+        assert self.pp.price() in self.pp.List2, "price list sorted ascending successful"
+        print("price list failed sorting ascending")
