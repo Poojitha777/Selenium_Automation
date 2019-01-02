@@ -24,7 +24,5 @@ class Test_SortOptions(unittest.TestCase):
             assert "Amazon" == i, "brand is not matching"
             print("brand is matching")
 
-    # @pytest.mark.run(order=3)
-    # def test_review(self):
-    #     self.pp.reviewClick()
+
 

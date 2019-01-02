@@ -5,6 +5,7 @@ from framework.base.Selenium_driver import SeleniumDriver
 import pytest
 import unittest
 import time
+import json
 
 @pytest.mark.usefixtures("oneTimeSetUp", "setUp")
 class Test_ProductPage(unittest.TestCase):
@@ -17,7 +18,10 @@ class Test_ProductPage(unittest.TestCase):
 
     @pytest.mark.run(order=1)
     def test_searchProduct(self):
-        self.hp.searchBar("Alexa")
+        """reading a json file"""
+        prodname = json.loads(open("ProductName.json").read())
+        name = prodname["product_name"]
+        self.hp.searchBar(name)
         productText = self.pp.alexa()
         assert "Alexa" in productText, "Product is not matching"
         print("Product is matching")

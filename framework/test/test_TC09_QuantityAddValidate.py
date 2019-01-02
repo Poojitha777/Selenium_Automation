@@ -7,8 +7,10 @@ import pytest
 import unittest
 import time
 
+
+
 @pytest.mark.usefixtures("oneTimeSetUp", "setUp")
-class Test_RemoveItemValidate(unittest.TestCase):
+class Test_QuantityAddValidate(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def classSetup2(self, oneTimeSetUp):
@@ -17,27 +19,34 @@ class Test_RemoveItemValidate(unittest.TestCase):
         self.pdp = ProductDetailsPage(self.driver)
         self.cp = CartPage(self.driver)
 
-    @pytest.mark.run(order=1)
-    def test_RemoveProduct(self):
-        self.hp.searchBar("dress")
-        self.pp.Dell()
-        self.hp.cartClick()
-        #cart1 = self.hp.cartCount()
-        self.hp.cartButtonClick()
-        subtotal1 = self.cp.subtotal()
-        print(subtotal1)
 
+    @pytest.mark.run(order=1)
+    def test_AddQuantity(self):
         self.hp.searchBar("watch")
         self.pp.watch()
         self.hp.cartClick()
-        #cart2 = self.hp.cartCount()
         self.hp.cartButtonClick()
-        subtotal2 = self.cp.subtotal()
-        print(subtotal2)
+        FirstProductPrice = float(self.cp.cart1Price())
+        print(FirstProductPrice)
+        Total1 = float(self.cp.subtotal())
+        print(Total1)
+        cartcount1 = self.hp.cartCount()
+        print(cartcount1)
         time.sleep(2)
-        self.cp.deleteClick()
+        self.cp.quantity()
         time.sleep(2)
-        Total = self.cp.subtotal()
-        print(Total)
-        assert subtotal1 == Total, "Subtotal verified successfully"
-        print("Subtotal verification failed ")
+        Total2 = float(self.cp.subtotal())
+        print(Total2)
+        subtotal = float(FirstProductPrice*2)
+        print(subtotal)
+        cartcount=cartcount1+1
+        print(cartcount)
+        assert Total2 == subtotal, "Quantity failed verification"
+        print("Quantity verified successfully")
+        
+
+
+
+
+
+
