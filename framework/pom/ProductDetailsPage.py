@@ -8,8 +8,7 @@ class ProductDetailsPage(SeleniumDriver):
 
     _inStock = "//div[@id='availability']/span"
 
-
-
+    """method to check if the product is in stock or not"""
     def stock(self):
         a = self.getElement(self._inStock,"xpath")
         b = a.text
