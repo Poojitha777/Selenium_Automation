@@ -1,3 +1,4 @@
+from framework.pom.CartPage import CartPage
 from framework.pom.HomePage import HomePage
 from framework.pom.ProductPage import ProductPage
 from framework.pom.ProductDetailsPage import ProductDetailsPage
@@ -14,6 +15,7 @@ class Test_RemoveItemValidate(unittest.TestCase):
         self.hp = HomePage(self.driver)
         self.pp = ProductPage(self.driver)
         self.pdp = ProductDetailsPage(self.driver)
+        self.cp = CartPage(self.driver)
 
     @pytest.mark.run(order=1)
     def test_RemoveProduct(self):
@@ -21,8 +23,21 @@ class Test_RemoveItemValidate(unittest.TestCase):
         self.pp.Dell()
         self.hp.cartClick()
         #cart1 = self.hp.cartCount()
+        self.hp.cartButtonClick()
+        subtotal1 = self.cp.subtotal()
+        print(subtotal1)
 
         self.hp.searchBar("watch")
         self.pp.watch()
         self.hp.cartClick()
         #cart2 = self.hp.cartCount()
+        self.hp.cartButtonClick()
+        subtotal2 = self.cp.subtotal()
+        print(subtotal2)
+        time.sleep(2)
+        self.cp.deleteClick()
+        time.sleep(2)
+        Total = self.cp.subtotal()
+        print(Total)
+        assert subtotal1 == Total, "Subtotal verified successfully"
+        print("Subtotal verification failed ")

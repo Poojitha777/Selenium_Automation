@@ -20,9 +20,9 @@ class Test_SortOptions(unittest.TestCase):
         self.pp.brandClick()
         productText2 = self.pp.amazonText()
         print(productText2)
-        for i in productText2:
-            assert "Amazon" == i, "brand is not matching"
-            print("brand is matching")
+        # for i in productText2:
+        #     assert "Amazon" == i, "brand is not matching"
+        #     print("brand is matching")
 
     # @pytest.mark.run(order=3)
     # def test_review(self):

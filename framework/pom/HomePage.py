@@ -23,6 +23,9 @@ class HomePage(SeleniumDriver):
         count = self.getElement(self._cartbutton,"xpath").text
         return int(count)
 
+    def cartButtonClick(self):
+        self.elementClick(self._cartbutton, "xpath")
+
 
 
 

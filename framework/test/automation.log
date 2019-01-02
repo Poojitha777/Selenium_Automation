@@ -825,3 +825,193 @@
 12/31/2018 05:52:05 PM - SeleniumDriver - INFO: Element Found with locator: //input[@name='s-ref-checkbox-Amazon'] and  locatorType: xpath
 12/31/2018 05:52:05 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='s-ref-checkbox-Amazon'] locatorType: xpath
 12/31/2018 05:52:05 PM - SeleniumDriver - INFO: Element not appeared on the web page
+01/01/2019 09:27:06 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 09:27:06 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 09:27:06 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 09:27:21 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 09:27:21 PM - SeleniumDriver - INFO: Element Found with locator: //span[text()='"Alexa"'] and  locatorType: xpath
+01/01/2019 09:30:23 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 09:30:24 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 09:30:24 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 09:30:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 09:30:36 PM - SeleniumDriver - INFO: Element Found with locator: //input[@name='s-ref-checkbox-Amazon'] and  locatorType: xpath
+01/01/2019 09:30:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='s-ref-checkbox-Amazon'] locatorType: xpath
+01/01/2019 09:30:37 PM - SeleniumDriver - INFO: Element not appeared on the web page
+01/01/2019 09:31:16 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 09:31:16 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 09:31:16 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 09:31:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 09:31:24 PM - SeleniumDriver - INFO: Element Found with locator: //input[@name='s-ref-checkbox-Amazon'] and  locatorType: xpath
+01/01/2019 09:31:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='s-ref-checkbox-Amazon'] locatorType: xpath
+01/01/2019 09:31:24 PM - SeleniumDriver - INFO: Element not appeared on the web page
+01/01/2019 09:52:38 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 09:52:40 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 09:52:40 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 09:52:48 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 09:52:51 PM - SeleniumDriver - INFO: Element not found with locator: sort and  locatorType: xpath
+01/01/2019 10:06:53 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:06:53 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:06:53 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:07:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:07:01 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:07:05 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:07:05 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:07:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:07:09 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:07:09 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:07:09 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:07:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:07:14 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:07:20 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:07:20 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:07:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:52:38 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:52:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:52:38 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:52:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:52:43 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:52:49 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:52:49 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:52:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:52:51 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 10:52:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 10:52:54 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:52:54 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:52:56 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:52:56 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:53:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:53:01 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:53:07 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:53:07 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:53:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:53:08 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 10:53:10 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 10:53:11 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:53:11 PM - SeleniumDriver - INFO: Element Found with locator: //span[@class='a-declarative']/input[1] and  locatorType: xpath
+01/01/2019 10:53:11 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class='a-declarative']/input[1] locatorType: xpath
+01/01/2019 10:53:11 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:54:50 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:54:50 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:54:52 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:54:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:54:56 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:55:01 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:55:01 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:55:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:55:04 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 10:55:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 10:55:06 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:55:06 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:55:07 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:55:07 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:55:11 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:55:11 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:55:17 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:55:18 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:55:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:55:19 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 10:55:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 10:55:22 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:55:22 PM - SeleniumDriver - INFO: Element Found with locator: //span[@class='a-declarative']/input[1] and  locatorType: xpath
+01/01/2019 10:55:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class='a-declarative']/input[1] locatorType: xpath
+01/01/2019 10:55:22 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:56:49 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:56:49 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:56:49 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:56:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:56:54 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:56:59 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:56:59 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:57:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:57:04 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 10:57:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 10:57:08 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:57:08 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:57:08 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:57:08 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:57:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:57:15 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:57:20 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:57:20 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:57:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:57:22 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 10:57:26 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 10:57:26 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:57:26 PM - SeleniumDriver - INFO: Element Found with locator: //span[@class='a-declarative']/input[1] and  locatorType: xpath
+01/01/2019 10:57:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class='a-declarative']/input[1] locatorType: xpath
+01/01/2019 10:57:28 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:58:29 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:58:29 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:58:29 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:58:35 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:58:35 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:58:39 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:58:40 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:58:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:58:42 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 10:58:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 10:58:46 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:58:46 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 10:58:46 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 10:58:46 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 10:58:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 10:58:51 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 10:58:55 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 10:58:55 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 10:58:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 10:58:57 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 10:59:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 10:59:00 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 10:59:01 PM - SeleniumDriver - INFO: Element Found with locator: //span[@class='a-declarative']/input[1] and  locatorType: xpath
+01/01/2019 10:59:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class='a-declarative']/input[1] locatorType: xpath
+01/01/2019 10:59:01 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 11:01:14 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 11:01:14 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 11:01:14 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 11:01:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 11:01:18 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 11:01:25 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 11:01:25 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 11:01:27 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 11:01:27 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 11:01:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 11:01:30 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 11:01:31 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 11:01:31 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 11:01:31 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 11:01:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 11:01:37 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 11:01:43 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 11:01:43 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 11:01:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 11:01:45 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 11:01:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 11:01:49 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 11:01:51 PM - SeleniumDriver - INFO: Element Found with locator: //span[@class='a-declarative']/input[1] and  locatorType: xpath
+01/01/2019 11:01:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class='a-declarative']/input[1] locatorType: xpath
+01/01/2019 11:01:53 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 11:02:10 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 11:02:12 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 11:02:12 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 11:02:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 11:02:18 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 11:02:24 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 11:02:24 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 11:02:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 11:02:29 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 11:02:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 11:02:33 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 11:02:33 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='twotabsearchtextbox'] and  locatorType: xpath
+01/01/2019 11:02:35 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='twotabsearchtextbox'] locatorType: xpath
+01/01/2019 11:02:35 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type='submit' and @class='nav-input'] and  locatorType: xpath
+01/01/2019 11:02:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@type='submit' and @class='nav-input'] locatorType: xpath
+01/01/2019 11:02:41 PM - SeleniumDriver - INFO: Element Found with locator: (//h2)[1] and  locatorType: xpath
+01/01/2019 11:02:47 PM - SeleniumDriver - INFO: Clicked on element with locator: (//h2)[1] locatorType: xpath
+01/01/2019 11:02:47 PM - SeleniumDriver - INFO: Element Found with locator: //input[@id='add-to-cart-button'] and  locatorType: xpath
+01/01/2019 11:02:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@id='add-to-cart-button'] locatorType: xpath
+01/01/2019 11:02:49 PM - SeleniumDriver - INFO: Element Found with locator: //span[@id='nav-cart-count'] and  locatorType: xpath
+01/01/2019 11:02:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@id='nav-cart-count'] locatorType: xpath
+01/01/2019 11:02:51 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
+01/01/2019 11:02:53 PM - SeleniumDriver - INFO: Element Found with locator: //span[@class='a-declarative']/input[1] and  locatorType: xpath
+01/01/2019 11:02:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[@class='a-declarative']/input[1] locatorType: xpath
+01/01/2019 11:02:56 PM - SeleniumDriver - INFO: Element Found with locator: //form[@id='gutterCartViewForm']/div[@class='a-box-group sc-buy-box-group']//p/span/span[2] and  locatorType: xpath
