@@ -18,7 +18,8 @@ class ProductPage(SeleniumDriver):
     _price = "//span[@class='sx-price-whole']"
     _dell = "(//h2)[1]"
     _wait="//div[@id='leftNavContainer']/h3[text()='Show results for']"
-
+    _productreview = "//div[@class='s-item-container']/div/div/div[2]/div[3]/div[2]/div[1]/span[1]/span//span"
+    _dress = "(//h2)[1]"
     List2 = []
 
     """method which is used to click on a specific product in the page"""
@@ -71,6 +72,18 @@ class ProductPage(SeleniumDriver):
     """method used to click on a particular product"""
     def watch(self):
         self.elementClick(self._watch,"xpath")
+
+
+    def productReviewClick(self):
+        review = self.driver.find_elements_by_xpath(self._productreview)
+        ReviewList = []
+        for i in review:
+            ReviewList.append(i.text[:1])
+        return ReviewList
+
+    def dress(self):
+        self.elementClick(self._dress,"xpath")
+        
 
 
 

@@ -21,7 +21,7 @@ class Test_RemoveItemValidate(unittest.TestCase):
     def test_RemoveProduct(self):
         self.hp.searchBar("dress")
         self.pp.Dell()
-        self.hp.cartClick()
+        self.cp.cartClick()
         #cart1 = self.hp.cartCount()
         self.hp.cartButtonClick()
         subtotal1 = self.cp.subtotal()
@@ -29,7 +29,7 @@ class Test_RemoveItemValidate(unittest.TestCase):
 
         self.hp.searchBar("watch")
         self.pp.watch()
-        self.hp.cartClick()
+        self.cp.cartClick()
         #cart2 = self.hp.cartCount()
         self.hp.cartButtonClick()
         subtotal2 = self.cp.subtotal()
