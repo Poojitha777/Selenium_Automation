@@ -1,5 +1,6 @@
 from framework.base.Selenium_driver import SeleniumDriver
 from selenium.webdriver.common.action_chains import ActionChains
+import json
 
 
 class HomePage(SeleniumDriver):
@@ -10,7 +11,7 @@ class HomePage(SeleniumDriver):
 
     _searchbar = "//input[@id='twotabsearchtextbox']"
     _searchbutton = "//input[@type='submit' and @class='nav-input']"
-    _addCart = "//input[@id='add-to-cart-button']"
+
     _cartbutton = "//span[@id='nav-cart-count']"
     _department = "//div[@id='nav-shop']/a/span[2]"
     _departmentList = "//div[@id='nav-flyout-shopAll']/div[2]//span"
@@ -22,9 +23,7 @@ class HomePage(SeleniumDriver):
         self.sendKeys(name, self._searchbar,"xpath")
         self.elementClick(self._searchbutton, "xpath")
 
-    """method used to click on ADD TO CART button"""
-    def cartClick(self):
-        self.elementClick(self._addCart,"xpath")
+
 
     """method used to find the Cart count"""
     def cartCount(self):
@@ -53,6 +52,15 @@ class HomePage(SeleniumDriver):
     def readFile(self):
         f = open("E:\PROGRAMMINGANGUAGESDOCUMENTS/Department.txt","r")
         return f.readline().replace("\n"," ")
+
+
+    def readJsonData(self,filepath, key):
+        filename = json.loads(open(filepath).read())
+        return filename[key]
+
+    def readTextFile(self,filepath):
+        file = open(filepath+".txt","r")
+        return file.readline().replace("\n","")
 
 
 

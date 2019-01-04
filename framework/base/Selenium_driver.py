@@ -5,7 +5,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
 from framework.utilties.custom_logger import customLogger
 import logging
-import json
 
 class SeleniumDriver():
 
@@ -110,9 +109,3 @@ class SeleniumDriver():
     # def ElementText(self, element):
     #     a = self.driver.element.text
     #     return  a
-
-    def readJsonData(self,filepath, key):
-        filename = json.loads(open(filepath+".json").read())
-        return filename[key]
-
-
