@@ -1,6 +1,5 @@
 from framework.base.Selenium_driver import SeleniumDriver
 from selenium.webdriver.support.ui import Select
-import json
 
 class ProductPage(SeleniumDriver):
 
@@ -14,13 +13,13 @@ class ProductPage(SeleniumDriver):
     _assertAlexa = "//span[text()='\"Alexa\"']"
     _brand = "//input[@name='s-ref-checkbox-Amazon']"
     _amazon = "//span[text()='Amazon']"
-    _review = "//a[@class='a-link-normal s-ref-text-link']/i/span[text()='4 Stars & Up']"
+    _review = "//span[text()='4 Stars & Up']"
     _select = "sort"
     _price = "//span[@class='sx-price-whole']"
     _dell = "(//h2)[1]"
     _wait="//div[@id='leftNavContainer']/h3[text()='Show results for']"
     _productreview = "//div[@class='s-item-container']/div/div/div[2]/div[3]/div[2]/div[1]/span[1]/span//span"
-
+    _dress = "(//h2)[1]"
     List2 = []
 
     """method which is used to click on a specific product in the page"""
@@ -76,21 +75,15 @@ class ProductPage(SeleniumDriver):
 
 
     def productReviewClick(self):
-        review = self.driver.find_elements_xpath(self._productreview, "xpath")
+        review = self.driver.find_elements_by_xpath(self._productreview)
         ReviewList = []
         for i in review:
             ReviewList.append(i.text[:1])
         return ReviewList
 
-    def readJsonData(self,filepath, key):
-        filename = json.loads(open(filepath+".json").read())
-        return filename[key]
-
-    def readTextFile(self,filepath):
-        file = open(filepath+".txt","r")
-        return file.readline().replace("\n","")
-
-
+    def dress(self):
+        self.elementClick(self._dress,"xpath")
+        
 
 
 

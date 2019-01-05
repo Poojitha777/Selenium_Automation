@@ -24,7 +24,7 @@ class Test_QuantityAddValidate(unittest.TestCase):
     def test_AddQuantity(self):
         self.hp.searchBar("watch")
         self.pp.watch()
-        self.hp.cartClick()
+        self.cp.cartClick()
         self.hp.cartButtonClick()
         FirstProductPrice = float(self.cp.cart1Price())
         print(FirstProductPrice)
